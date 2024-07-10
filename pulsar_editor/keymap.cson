@@ -1,0 +1,4 @@
+'atom-workspace':
+  'ctrl-alt-s': 'python-black:format'
+'atom-text-editor':
+  'ctrl-alt-f': 'custom:format-snakefile'
