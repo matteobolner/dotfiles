@@ -1,9 +1,0 @@
-
-##Paste following text in kernel gateway settings for hydrogen
-
-[{
-  "name": "GAUSS",
-  "options": {
-    "baseUrl": "http://localhost:8888"
-  }
-}]
