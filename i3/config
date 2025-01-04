@@ -217,7 +217,7 @@ smart_gaps inverse_outer
 for_window [class="^.*"] border pixel 0
 # exec_always --no-startup-id picom 
 
-
+exec_always --no-startup-id ~/.config/fehbg
 
 bindsym $mod+p exec mpc toggle
 bindsym $mod+plus exec mpc next 
